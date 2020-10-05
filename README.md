@@ -31,7 +31,7 @@ python eval.py --eval_folder esgn_c3d_run0 --eval_esgn_rerank
 ```
 
 # Performance
-| Model | proposal model | Avg proposal number |Avg Precision | Avg Recall | F1| download |
+| Model | proposal model | Avg proposal number |Avg Recall | Avg Precision | F1| download |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Original ESGN | SST            | 2.85 | 55.58 | 57.57 | 56.66 | |
 | My reimpl. |  DBG              | 2.73 | 52.67 | 58.90 | 55.62 | [url](https://drive.google.com/drive/folders/10E0U2Mun0ymYXwDDMIstETu4SVmWdtmL?usp=sharing) |

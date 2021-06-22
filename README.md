@@ -16,7 +16,7 @@
 - Training 
 ```
 cfg_path=cfgs/esgn.yml
-python train.py --path_opt $cfg_path
+python train.py --cfg_path $cfg_path
 ```
 the checkpoint files are saved in this folder `./save`.
 
